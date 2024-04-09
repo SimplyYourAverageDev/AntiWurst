@@ -1,6 +1,6 @@
 # SafeServer Fabric Mod
 
-SafeServer is a Minecraft Fabric mod that adds a password-based login system to your Minecraft server. Players are required to set a password and log in before they can start playing in survival mode.
+SafeServer is a Minecraft Fabric mod that adds a password-based login system to your Minecraft server. Players are required to set a password and log in before they can start playing in survival mode. This mod is designated for servers without Mojang Verification Servers enabled.
 
 ## Features
 
